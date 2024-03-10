@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@vitejs/plugin-react": "^2.2.0",
-    "mathjs": "^11.3.2",
+    "mathjs": "^12.3.2",
     "nanoid": "^4.0.0",
     "react": "18.1.0",
     "react-native": "0.70.4",
